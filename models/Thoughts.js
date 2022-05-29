@@ -1,5 +1,5 @@
 const { Schema, model } = require("mongoose");
-const reactionSchema = require("./reactionSchema");
+const reactionSchema = require("./Reactions");
 // Import dayjs for date-time formatting
 const dayjs = require("dayjs");
 
