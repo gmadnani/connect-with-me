@@ -2,7 +2,7 @@
   "name": "connect-with-me",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/gmadnani/connect-with-me#readme",
   "dependencies": {
     "dayjs": "^1.11.2",
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "mongoose": "^6.3.3",
     "validator": "^13.7.0"
