@@ -20,10 +20,10 @@ An API for a social network web application created using Node, Express, Mongoos
 
 You can run this application locally by:
 
-3. Install the required packages using `npm install`
-4. Make sure your MongoDB database server is running.
-5. Start the application server by running `npm start`
-6. By default, the server will be listening on port 3002.
+1. Install the required packages using `npm install`
+2. Make sure your MongoDB database server is running.
+3. Start the application server by running `npm start`
+4. By default, the server will be listening on port 3002.
 
 ## Usage
 
